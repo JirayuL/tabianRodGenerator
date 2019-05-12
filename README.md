@@ -1,2 +1,2 @@
 # tabianRodGenerator
-Generate the match Thai license plate from your preference.
+Generate the match Thai license plate from your requirement.
